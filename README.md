@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tjprince
+- 👀 I’m interested in lots of things
+- 🌱 I'm learning front end web development for email and mobile applications
+- 📫 You can email me at tjprince88 at gmail
